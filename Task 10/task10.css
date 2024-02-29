@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+ul li{
+    color: black;
+}
+
+ul li:hover {
+    cursor: pointer;
+    color: red;
+}

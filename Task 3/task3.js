@@ -1,4 +1,4 @@
-var div = 0;
+let div = 0;
 
 
 function changeTheButton()
