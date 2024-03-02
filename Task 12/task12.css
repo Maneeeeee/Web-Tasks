@@ -1,0 +1,16 @@
+.slider-container {
+    position: relative;
+}
+
+.button-container {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+button {
+    padding: 5px 10px;
+    margin: 0 10px;
+    cursor: pointer;
+}

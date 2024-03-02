@@ -1,0 +1,21 @@
+.tab-container {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.tab-links {
+    margin-bottom: 10px;
+}
+
+.tab-link {
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.tab-content {
+    display: none;
+}
+
+.tab-content.active {
+    display: block;
+}
