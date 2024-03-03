@@ -8,7 +8,7 @@
 }
 
 body{
-    background-color: rgb(219, 222, 255);
+    background-color: blanchedalmond;
 }
 
 .header {
@@ -46,12 +46,12 @@ body{
 
 }
 
-menu.li {
+.menu li {
     list-style-type: none;
 }
 
 .menu li a{
-    color: #fff;
+    color: #510077;
     text-decoration: none;
     display: block;
     padding: 40px 25px;
@@ -162,6 +162,7 @@ menu.li {
         
     }
 }
+
 
 
 
